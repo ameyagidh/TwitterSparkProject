@@ -2,7 +2,8 @@
 ##  Spark Twitter Project
 
 ## Project outline
-![Blank diagram](https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/b0c67c9f-c78a-4c2c-b303-06ce0219e650)
+<img width="500" alt="bar chart" src= "https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/e228c4bd-2658-4a41-9352-f0b85ba80490">
+
 
 ## Steps to set up the pipeline
 First Download and install Xaamp
@@ -61,7 +62,7 @@ Refresh the dashboard to view updated stats.
 
 **Final output**
 Bar Chart showing the number of tweets related to the top 50 songs.
-<img width="345" alt="bar chart" src="https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/dd89c15b-34e5-4cfa-8dd3-cbdf7e77e60c">
+<img width="500" alt="bar chart" src="https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/b02e1da3-f855-4897-b1ee-cacfb10f52f8">
 
 Pie Chart showing the sentiment of tweets and songs.
-![Sentiment](https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/ea921bef-8c61-43f1-a0fb-33beb38e5ff7)
+<img width="500" alt="bar chart" src= "https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/77144860-8342-425a-9f31-3e5646699598">
