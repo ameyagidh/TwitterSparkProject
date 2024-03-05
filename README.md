@@ -62,7 +62,7 @@ Refresh the dashboard to view updated stats.
 
 **Final output**
 Bar Chart showing the number of tweets related to the top 50 songs.
-<img width="500" alt="bar chart" src="https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/b02e1da3-f855-4897-b1ee-cacfb10f52f8">
+<img width="800" alt="bar chart" src="https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/b02e1da3-f855-4897-b1ee-cacfb10f52f8">
 
 Pie Chart showing the sentiment of tweets and songs.
-<img width="500" alt="bar chart" src= "https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/02ea7953-136d-4593-ba3e-d6dbc22dc71c">
+<img width="800" alt="bar chart" src= "https://github.com/ameyagidh/TwitterSparkProject/assets/65457905/02ea7953-136d-4593-ba3e-d6dbc22dc71c">
